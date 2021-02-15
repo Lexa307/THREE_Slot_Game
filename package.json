@@ -1,0 +1,28 @@
+{
+  "name": "corumthree",
+  "version": "0.0.1",
+  "description": "Test task for Octavian gaming solurions",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "webpack": "webpack",
+    "dev": "npm run webpack -- --mode development --watch",
+    "build": "npm run webpack -p -- --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "THREE",
+    "WebGL"
+  ],
+  "author": "Lexa307",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "gsap": "^3.6.0",
+    "three": "^0.123.0"
+  }
+}
