@@ -2,7 +2,7 @@
 ## Test task for https://www.octaviangaming.com/en/
 compatible for desktop display only
 ### Animation
-![](https://imgur.com/a/x88NvDw)
+![](https://github.com/Lexa307/lexa307.github.io/blob/master/THREE_Slot_Game/5jh2o80vtr.gif?raw=true)
 ### Live demo
 Builded version you can see [here](https://lexa307.github.io/THREE_Slot_Game/)
 ### Dependencies
